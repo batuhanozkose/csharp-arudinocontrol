@@ -1,0 +1,20 @@
+C:\Users\SONY\OneDrive - İş\OneDrive - Kau Yan College\SeniusProjects\C# - Arduino - Control\C# Codes\ArduinoControl\ArduinoControl\bin\Debug\ArduinoControl.exe.config
+C:\Users\SONY\OneDrive - İş\OneDrive - Kau Yan College\SeniusProjects\C# - Arduino - Control\C# Codes\ArduinoControl\ArduinoControl\bin\Debug\ArduinoControl.exe
+C:\Users\SONY\OneDrive - İş\OneDrive - Kau Yan College\SeniusProjects\C# - Arduino - Control\C# Codes\ArduinoControl\ArduinoControl\bin\Debug\ArduinoControl.pdb
+C:\Users\SONY\OneDrive - İş\OneDrive - Kau Yan College\SeniusProjects\C# - Arduino - Control\C# Codes\ArduinoControl\ArduinoControl\obj\Debug\ArduinoControl.csprojAssemblyReference.cache
+C:\Users\SONY\OneDrive - İş\OneDrive - Kau Yan College\SeniusProjects\C# - Arduino - Control\C# Codes\ArduinoControl\ArduinoControl\obj\Debug\ArduinoControl.Form1.resources
+C:\Users\SONY\OneDrive - İş\OneDrive - Kau Yan College\SeniusProjects\C# - Arduino - Control\C# Codes\ArduinoControl\ArduinoControl\obj\Debug\ArduinoControl.Properties.Resources.resources
+C:\Users\SONY\OneDrive - İş\OneDrive - Kau Yan College\SeniusProjects\C# - Arduino - Control\C# Codes\ArduinoControl\ArduinoControl\obj\Debug\ArduinoControl.csproj.GenerateResource.cache
+C:\Users\SONY\OneDrive - İş\OneDrive - Kau Yan College\SeniusProjects\C# - Arduino - Control\C# Codes\ArduinoControl\ArduinoControl\obj\Debug\ArduinoControl.csproj.CoreCompileInputs.cache
+C:\Users\SONY\OneDrive - İş\OneDrive - Kau Yan College\SeniusProjects\C# - Arduino - Control\C# Codes\ArduinoControl\ArduinoControl\obj\Debug\ArduinoControl.exe
+C:\Users\SONY\OneDrive - İş\OneDrive - Kau Yan College\SeniusProjects\C# - Arduino - Control\C# Codes\ArduinoControl\ArduinoControl\obj\Debug\ArduinoControl.pdb
+C:\Users\SONY\Desktop\C# - Arduino - Control\C# Codes\ArduinoControl\ArduinoControl\bin\Debug\ArduinoControl.exe.config
+C:\Users\SONY\Desktop\C# - Arduino - Control\C# Codes\ArduinoControl\ArduinoControl\bin\Debug\ArduinoControl.exe
+C:\Users\SONY\Desktop\C# - Arduino - Control\C# Codes\ArduinoControl\ArduinoControl\bin\Debug\ArduinoControl.pdb
+C:\Users\SONY\Desktop\C# - Arduino - Control\C# Codes\ArduinoControl\ArduinoControl\obj\Debug\ArduinoControl.csprojAssemblyReference.cache
+C:\Users\SONY\Desktop\C# - Arduino - Control\C# Codes\ArduinoControl\ArduinoControl\obj\Debug\ArduinoControl.Form1.resources
+C:\Users\SONY\Desktop\C# - Arduino - Control\C# Codes\ArduinoControl\ArduinoControl\obj\Debug\ArduinoControl.Properties.Resources.resources
+C:\Users\SONY\Desktop\C# - Arduino - Control\C# Codes\ArduinoControl\ArduinoControl\obj\Debug\ArduinoControl.csproj.GenerateResource.cache
+C:\Users\SONY\Desktop\C# - Arduino - Control\C# Codes\ArduinoControl\ArduinoControl\obj\Debug\ArduinoControl.csproj.CoreCompileInputs.cache
+C:\Users\SONY\Desktop\C# - Arduino - Control\C# Codes\ArduinoControl\ArduinoControl\obj\Debug\ArduinoControl.exe
+C:\Users\SONY\Desktop\C# - Arduino - Control\C# Codes\ArduinoControl\ArduinoControl\obj\Debug\ArduinoControl.pdb
